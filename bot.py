@@ -8,7 +8,7 @@ import time
 import ast
 
 
-bot = telebot.TeleBot("681865117:AAEnx260WwhGwwJ2qoeJyMAGStGedu7Cv1U")
+bot = telebot.TeleBot("#######:#################################")
 
 @bot.message_handler(commands=["start"])
 
@@ -25,8 +25,8 @@ def getSchdual(message):
 		print "password: " + password
 		bot.send_message(message.chat.id, "it's getting login information...")
 
-		#user = '201503234'
-		#password = 'TRuMeh8r*r#'
+		#user = '20150####'
+		#password = '############'
 		driver= webdriver.Firefox(executable_path="Drivers/geckodriver")
 		url="http://edugate.jazanu.edu.sa"
 		driver.get(url)
