@@ -18,7 +18,9 @@ Python version 2.7.10
 This Bot built for get Student schedule form jazanu edugate portal 
 [EDUGATE PORTAL WEBSITE](https://edugate.jazanu.edu.sa/jazan/init) to the telegram bot.
 
-## Commands
+## Commands && USAGE
+```bash
 By using formmat [ /login username password ]
 username = your_ID
 passowrd = your_Pass
+```
