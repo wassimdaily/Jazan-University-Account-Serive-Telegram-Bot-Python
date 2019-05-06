@@ -1,6 +1,8 @@
 # Jazan University | Student Schedule Service
 Noted: This project not for official use, Just used for personal service.
 
+## Installation
+
 ## What is Student Schdule Service Bot?
 Is internet bot used for get screenshot of your schedule througt Telegram & WhatsApp API or Another API such as twilio sms&mms or email API.
 
